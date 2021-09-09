@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Get unmanaged pods
+
 ALLPOD=/tmp/fill-info1.$$.txt
 NOCILIUMPOD=/tmp/fill-info2.$$.txt
 CILIUMPOD=/tmp/fill-info3.$$.txt
